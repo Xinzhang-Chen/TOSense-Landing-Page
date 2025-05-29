@@ -16,7 +16,7 @@ This is the official landing page for **TOSense**, a browser-based tool for auto
 ## About This Page
 
 This landing page serves as:
-- A central hub for links to the TOSense browser extension and backend repositories.
+- A central hub for links to the [TOSense browser extension](https://github.com/Xinzhang-Chen/TOSense) and the [tos-crawl repositories](https://github.com/Xinzhang-Chen/tos-crawl).
 - A place to find contact details for the developers.
 
 ## Contact & Collaboration
