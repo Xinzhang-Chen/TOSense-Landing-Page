@@ -46,6 +46,6 @@ If you're interested in collaborating or have feedback, please visit the page an
   <img src="https://github.com/user-attachments/assets/eb753feb-f2b0-4464-9b72-24f24f4e8537" alt="UNSW CSE Logo" width="120" style="margin: 0 20px;" />
 </p>
 
-Made with ❤️ at UNSW Sydney.
+Made with ❤️ at CSE of UNSW Sydney.
 
 ---
